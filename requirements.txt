@@ -1,0 +1,7 @@
+Flask
+transformers
+PyMuPDF
+pandas
+beautifulsoup4
+requests
+gunicorn
