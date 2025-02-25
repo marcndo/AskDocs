@@ -1,1 +1,1 @@
-DocuQuery: Intelligent Q&A API for PDFs, URLs & CSVs.
+# DocuQuery: Intelligent Q&A API for PDFs, URLs & CSVs.
