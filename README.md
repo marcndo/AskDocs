@@ -1,4 +1,4 @@
-# DocuQuery: Intelligent Q&A API for PDFs, URLs & CSVs.
+# DocuQuery: Intelligent Q&A API for PDFs, URLs & CSVs(In progress).
 
 ### Overview
 DocuQuery is an intelligent, scalable Question & Answer (Q&A) API designed to extract relevant information from PDFs, URLs, and CSV files. The API leverages advanced Natural Language Processing (NLP) and Machine Learning (ML) models to analyze and answer questions based on the content of these documents, providing a powerful tool for automated data retrieval and decision support.
